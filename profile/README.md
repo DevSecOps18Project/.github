@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome! 👋
+
+This is the main page of our final project in the course of DevSecOps in BIU. 
+
+To download all the repositories at once, please follow the instructions in the [manifests repository](https://github.com/DevSecOps18Project/manifests). 
 
 <!--
 
